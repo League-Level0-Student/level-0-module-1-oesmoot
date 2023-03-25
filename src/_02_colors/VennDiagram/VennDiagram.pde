@@ -1,1 +1,16 @@
+fill(255,0,0,100);
 size(600,600);
+ellipse(250,200, 200,200);
+fill(107,255,106,100);
+ellipse(350,200,200,200);
+fill(0,27,252,100);
+ellipse(300,300,200,200);
+fill(0,0,0,500);
+textSize(10);
+text("epok gamor", 270,250);
+text("stinky boi",275,325);
+text("kinda cringe",365,200);
+text("geeky",200,200);
+text("real sheesh",275,175);
+text("annoying",330,275);
+text("game dev",225,275);
