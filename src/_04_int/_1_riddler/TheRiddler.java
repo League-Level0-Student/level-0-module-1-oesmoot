@@ -22,7 +22,7 @@ public class TheRiddler {
 		}
 		// 5. Otherwise, say "wrong" and tell them the answer
 		else {
-			JOptionPane.showMessageDialog(null, "WRONG! the answer is: a tounge");
+			JOptionPane.showMessageDialog(null, "WRONG!");
 		}
 		// 6. Add some more riddles
 
